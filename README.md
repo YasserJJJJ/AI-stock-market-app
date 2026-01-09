@@ -83,7 +83,7 @@ Open http://localhost:3000 in your browser to view the project.
 
 # More !
 
-![?](Email Templates.png)
+![?](./public/assets/images/Email Templates.png)
 ![?]()
 ![?]()
 ![?]()
