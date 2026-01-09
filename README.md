@@ -47,26 +47,26 @@ replace the placeholder values with your real credentials. You can get these by 
 
 Create a new file named .env in the root of your project and add the following content:
 
-NODE_ENV='development'
+NODE_ENV = 'development'
 
-NEXT_PUBLIC_BASE_URL=http://localhost:3000
-
-
-NEXT_PUBLIC_NEXT_PUBLIC_FINNHUB_API_KEY=
-FINNHUB_BASE_URL=https://finnhub.io/api/v1
+NEXT_PUBLIC_BASE_URL = http://localhost:3000
 
 
-MONGODB_URI=
+NEXT_PUBLIC_NEXT_PUBLIC_FINNHUB_API_KEY =
+FINNHUB_BASE_URL = https://finnhub.io/api/v1
 
 
-BETTER_AUTH_SECRET=
-BETTER_AUTH_URL=http://localhost:3000
+MONGODB_URI =
 
 
-GEMINI_API_KEY=
+BETTER_AUTH_SECRET =
+BETTER_AUTH_URL = http://localhost:3000
 
-NODEMAILER_EMAIL=
-NODEMAILER_PASSWORD=
+
+GEMINI_API_KEY =
+
+NODEMAILER_EMAIL =
+NODEMAILER_PASSWORD =
 
 4) **Run the project**
 
