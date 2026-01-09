@@ -5,7 +5,7 @@ AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and 
 ---
 ## ⚙️  TECH STACK 
 
-*  Better Auth is a framework-agnostic authentication and authorization library for TypeScript. It provides built-in support for email/password login, social sign-on (Google, GitHub, Apple, and more), and multi-factor authentication, simplifying user authentication and account management.
+*  **[Better Auth](https://www.better-auth.com)** is a framework-agnostic authentication and authorization library for TypeScript. It provides built-in support for email/password login, social sign-on (Google, GitHub, Apple, and more), and multi-factor authentication, simplifying user authentication and account management.
 ___
 
 ## 🚀 Quick Start
