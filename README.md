@@ -41,27 +41,29 @@ Make sure you have the following installed on your machine:
 
 2) **👉 run this command inside the folder: npm install**
    
-3) **Set Up Environment Variables, Replace the placeholder values with your real credentials. You can get these by signing up at: MongoDB, Gemini, Inngest, Finnhub.**
+3) **Set Up Environment Variables**
+   
+replace the placeholder values with your real credentials. You can get these by signing up at: MongoDB, Gemini, Inngest, Finnhub.
 
 Create a new file named .env in the root of your project and add the following content:
+
 NODE_ENV='development'
 NEXT_PUBLIC_BASE_URL=http://localhost:3000
 
-#FINNHUB
+
 NEXT_PUBLIC_NEXT_PUBLIC_FINNHUB_API_KEY=
 FINNHUB_BASE_URL=https://finnhub.io/api/v1
 
-#MONGODB
+
 MONGODB_URI=
 
-#BETTER AUTH
+
 BETTER_AUTH_SECRET=
 BETTER_AUTH_URL=http://localhost:3000
 
-#GEMINI
+
 GEMINI_API_KEY=
 
-#NODEMAILER
 NODEMAILER_EMAIL=
 NODEMAILER_PASSWORD=
 
