@@ -83,7 +83,8 @@ Open http://localhost:3000 in your browser to view the project.
 
 # More !
 
-![?](./public/assets/images/Email Templates.png)
+![?](./public/assets/images/EmailTemplates.png)
+![?](./public/assets/images/Pirce-Alert-Modal.png)
 ![?]()
 ![?]()
 ![?]()
