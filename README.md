@@ -48,6 +48,7 @@ replace the placeholder values with your real credentials. You can get these by 
 Create a new file named .env in the root of your project and add the following content:
 
 NODE_ENV='development'
+
 NEXT_PUBLIC_BASE_URL=http://localhost:3000
 
 
