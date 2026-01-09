@@ -1,5 +1,5 @@
 # Preview
-![?](./public/assets/images/dashboard-preview.png)
+![?](./public/assets/images/dashboard.png)
 
 ------
 # ✨ Introduction
