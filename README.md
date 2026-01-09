@@ -19,19 +19,19 @@ ___
 ## 🔋 Features
 
 * **Stock Dashboard**: Track real-time stock prices with interactive line and candlestick charts, including historical data, and filter stocks by industry, performance, or market cap.
-* ** Powerful Search **: Quickly find the best stocks with an intelligent search system that helps you navigate through Signalist.
-* **  Watchlist & Alerts **: Create a personalized watchlist, set alert thresholds for price changes or volume spikes, and receive instant email notifications to stay on top of the market.
-* ** Company Insights **: Explore detailed financial data such as PE ratio, EPS, revenue, recent news, filings, analyst ratings, and sentiment scores for informed decision-making.
-*  ** Real-Time Workflows ** : Powered by Inngest, automate event-driven processes like price updates, alert scheduling, automated reporting, and AI-driven insights.
-*   ** AI-Powered Alerts & Summaries ** : Generate personalized market summaries, daily digests, and earnings report notifications, helping users track performance and make data-driven decisions.
-*  ** Customizable Notifications ** : Fine-tune alerts and notifications based on user watchlists and preferences for a highly personalized experience.
-*  ** Analytics & Insights ** : Gain insights into user behavior, stock trends, and engagement metrics, enabling smarter business and trading decisions.
+* **Powerful Search**: Quickly find the best stocks with an intelligent search system that helps you navigate through Signalist.
+* **Watchlist & Alerts**: Create a personalized watchlist, set alert thresholds for price changes or volume spikes, and receive instant email notifications to stay on top of the market.
+* **Company Insights**: Explore detailed financial data such as PE ratio, EPS, revenue, recent news, filings, analyst ratings, and sentiment scores for informed decision-making.
+*  **Real-Time Workflows** : Powered by Inngest, automate event-driven processes like price updates, alert scheduling, automated reporting, and AI-driven insights.
+*   **AI-Powered Alerts & Summaries** : Generate personalized market summaries, daily digests, and earnings report notifications, helping users track performance and make data-driven decisions.
+*  **Customizable Notifications** : Fine-tune alerts and notifications based on user watchlists and preferences for a highly personalized experience.
+*  **Analytics & Insights** : Gain insights into user behavior, stock trends, and engagement metrics, enabling smarter business and trading decisions.
 
 *  👉  This includes code architecture and reusability.
 ---
 ## 🚀 Quick Start
 
-1) ** Prerequisites **
+1) **Prerequisites**
 
 Make sure you have the following installed on your machine:
 
@@ -39,9 +39,9 @@ Make sure you have the following installed on your machine:
 * **[Node.js](https://nodejs.org/en)**
 * **[npm](https://www.npmjs.com)**
 
-2) ** 👉 run this command inside the folder: npm install **
+2) **👉 run this command inside the folder: npm install**
    
-3) ** Set Up Environment Variables, Replace the placeholder values with your real credentials. You can get these by signing up at: MongoDB, Gemini, Inngest, Finnhub. **
+3) **Set Up Environment Variables, Replace the placeholder values with your real credentials. You can get these by signing up at: MongoDB, Gemini, Inngest, Finnhub.**
 
 Create a new file named .env in the root of your project and add the following content:
 NODE_ENV='development'
@@ -65,7 +65,7 @@ GEMINI_API_KEY=
 NODEMAILER_EMAIL=
 NODEMAILER_PASSWORD=
 
-4) ** Run the project **
+4) **Run the project**
 
 npm run dev
 npx inngest-cli@latest dev
