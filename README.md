@@ -1,9 +1,8 @@
-## 🚀 LIVE DEMO 
-🔗 [Click here to see the live demo ](https://ai-stock-market-app-or1o.vercel.app/sign-in)
---------
 # Preview
 ![?](./public/assets/images/dashboard.png)
-
+-----
+## 🚀 LIVE DEMO 
+🔗 [Click here to see the live demo ](https://ai-stock-market-app-or1o.vercel.app/sign-in)
 ------
 # ✨ Introduction
 
