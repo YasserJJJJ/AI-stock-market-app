@@ -8,7 +8,7 @@ AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and 
 -----
 ## 🚀 LIVE DEMO 
 🔗 **https://ai-stock-market-app-or1o.vercel.app/sign-in**
-
+(project's link)
 ---
 ## ⚙️  TECH STACK 
 
